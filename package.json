@@ -1,0 +1,14 @@
+{
+  "name": "remotellmtest",
+  "version": "1.0.0",
+  "description": "Placeholder for my test project to integrate with multiple LLMs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.13.0"
+  }
+}
